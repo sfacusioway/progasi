@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+.Moto{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 60px;
+    font-family: "Bungee", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+     
+      
+}
+.photo{
+    text-align: center;
+}
+.text{
+    color: antiquewhite;
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+    font-size: 40px;
+    margin-left: 40px;
+    margin-left: 40px;
+    margin-right:40px ;
+
+}
+.text2{
+    font-family: "Bungee", sans-serif;
+    font-size: 60px;
+    color:antiquewhite;
+    text-align:center;
+
+}
+.table{
+    color:antiquewhite;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: 17px ridge antiquewhite;
+    border-collapse: collapse;
+    font-size:30px ;
+    font-family: "Concert One", sans-serif;
+
+}
+.Reviews{
+    color:antiquewhite;
+    text-align: center;
+    font-family: "Bungee", sans-serif;
+    font-size: 60px;
+    margin-left: 40px;
+}

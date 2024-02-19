@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.mem{
+    color: antiquewhite;
+    text-align: center;
+    font-family: "Bungee", sans-serif;
+    font-size: 60px;
+}
+.name{
+    color: antiquewhite;
+    text-align: center;
+    font-family: "Bungee", sans-serif;
+    font-size: 40px;
+
+}
+.text{
+    color: antiquewhite;
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+    font-size: 40px;
+    margin-left: 40px;
+    margin-left: 40px;
+    margin-right:40px ;
+}
